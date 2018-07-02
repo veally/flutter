@@ -12,6 +12,8 @@ import 'package:startup_namer/view/gridview/MyGridView.dart';
 import 'package:startup_namer/view/gridview/MyListView.dart';
 import 'package:startup_namer/view/MyStack.dart';
 import 'package:startup_namer/view/MyCard.dart';
+import 'package:startup_namer/view/Animation.dart';
+import 'package:startup_namer/view/InputValid.dart';
 
 //void main() => runApp(new MyApp());
 void main() {
